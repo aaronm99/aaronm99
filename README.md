@@ -9,7 +9,7 @@ Self-taught Front End Developer looking to learn new skills and become big brain
 * 🌍  I'm based in London
 * 🖥️  See my portfolio at [aaronmistry.com](http://aaronmistry.com)
 * ✉️  You can contact me at [aaron.rohin@hotmail.co.uk](mailto:aaron.rohin@hotmail.co.uk)
-* 🚀  I'm currently working on [ChatApp](http://chatapp.com)
+<!-- * 🚀  I'm currently working on [ChatApp](http://chatapp.com) -->
 * 🧠  I'm learning Firebase
 * 🤝  I'm open to collaborating on anything
 
