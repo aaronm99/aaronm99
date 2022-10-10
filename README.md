@@ -1,7 +1,7 @@
 Hi 👋 My name is aaron
 ======================
 
-Front End Developer
+Web Developer
 -------------------
 
 Self-taught Front End Developer looking to learn new skills and become big brain
