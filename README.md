@@ -4,12 +4,12 @@ Hi 👋 My name is aaron
 Web Developer
 -------------------
 
-Self-taught Front End Developer looking to learn new skills and become big brain
+Web Developer looking to learn new skills
 
 * 🌍  I'm based in London
 * 🖥️  See my portfolio at [aaronmistry.com](http://aaronmistry.com)
 * ✉️  You can contact me at [aaron.rohin@hotmail.co.uk](mailto:aaron.rohin@hotmail.co.uk)
-* 🧠  I'm learning Firebase
+* 🧠  I'm learning the T3 Stack
 * 🤝  I'm open to collaborating on anything
 
 ### Skills
